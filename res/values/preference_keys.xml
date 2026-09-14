@@ -20,6 +20,10 @@
     Key values should be unique.
 -->
 <resources>
+    <string name="pk_show_documentsui_launcher" translatable="false">
+        show_documentsui_launcher
+    </string>
+
     <!-- Homepage -->
     <string name="pk_suggestions" translatable="false">suggestions</string>
     <string name="pk_display_settings_entry" translatable="false">display_settings_entry</string>

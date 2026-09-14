@@ -37,7 +37,7 @@ public class DocumentsUiLauncherPreferenceController
         extends PreferenceController<SwitchPreference> {
 
     private static final String DOCUMENTS_UI_PACKAGE =
-            "com.android.car.documentsui";
+            "com.android.documentsui";
 
     private static final String DOCUMENTS_UI_LAUNCHER =
             "com.android.documentsui.LauncherActivity";
