@@ -2404,6 +2404,7 @@
     <string name="allow_bind_app_widget_activity_always_allow_bind">Always allow <xliff:g id="widget_host_name">%1$s</xliff:g> to create widgets and access their data</string>
     
     <string name="show_documentsui_launcher">Show Files app</string>
-    <string name="show_documentsui_launcher_summary">Show the Files app in the launcher</string>
+	<string name="show_documentsui_launcher_summary">Show the Files app in the launcher</string>
+	<string name="pk_show_documentsui_launcher">show_documentsui_launcher</string>
 
 </resources>
