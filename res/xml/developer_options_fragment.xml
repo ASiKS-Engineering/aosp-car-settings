@@ -43,4 +43,15 @@
 
     </PreferenceCategory>
 
+    <PreferenceCategory
+        android:title="@string/power_settings_category">
+
+        <SwitchPreference
+            android:key="@string/pk_power_settings_enabled"
+            android:title="@string/power_settings_enable"
+            android:summary="@string/power_settings_enable_summary"
+            settings:controller="com.android.car.settings.development.PowerSettingsEnabledPreferenceController"/>
+
+    </PreferenceCategory>
+
 </PreferenceScreen>

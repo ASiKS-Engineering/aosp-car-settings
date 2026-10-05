@@ -75,6 +75,13 @@
         settings:controller="com.android.car.settings.common.DefaultRestrictionsPreferenceController"
         settings:searchable="false"/>
     <Preference
+        android:fragment="com.android.car.settings.system.PowerSettingsFragment"
+        android:icon="@drawable/ic_settings_power"
+        android:key="@string/pk_power_settings_entry"
+        android:title="@string/power_settings_title"
+        settings:controller="com.android.car.settings.system.PowerSettingsEntryPreferenceController"
+        settings:searchable="false"/>
+    <Preference
         android:icon="@drawable/ic_settings_development"
         android:key="@string/pk_developer_options_entry"
         android:title="@string/developer_options_settings"

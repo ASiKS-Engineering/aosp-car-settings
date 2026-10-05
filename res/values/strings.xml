@@ -2405,6 +2405,23 @@
     
     <string name="show_documentsui_launcher">Show Files app</string>
 	<string name="show_documentsui_launcher_summary">Show the Files app in the launcher</string>
-	<string name="pk_show_documentsui_launcher">show_documentsui_launcher</string>
+
+    <!-- Power settings (shown when enabled in developer options) -->
+    <string name="power_settings_category">Power</string>
+    <string name="power_settings_enable">Show Power settings</string>
+    <string name="power_settings_enable_summary">Adds a Power entry with restart, shut down and reboot to recovery to the system settings</string>
+    <string name="power_settings_title">Power</string>
+    <string name="power_restart_title">Restart</string>
+    <string name="power_shutdown_title">Shut down</string>
+    <string name="power_shutdown_dialog_text">Shut down the device?</string>
+    <string name="power_reboot_to_recovery_title">Reboot to recovery</string>
+    <string name="power_reboot_to_recovery_summary">Restart once and boot from the SD card first, then NVMe</string>
+    <string name="power_reboot_to_recovery_dialog_text">Restart now and boot from the SD card first? If the SD card is not bootable, the device starts from NVMe.</string>
+    <string name="pk_power_settings_enabled" translatable="false">power_settings_enabled</string>
+    <string name="pk_power_settings_entry" translatable="false">power_settings_entry</string>
+    <string name="pk_power_restart" translatable="false">power_restart</string>
+    <string name="pk_power_shutdown" translatable="false">power_shutdown</string>
+    <string name="pk_power_reboot_to_recovery" translatable="false">power_reboot_to_recovery</string>
+    <string name="psk_power_settings" translatable="false">power_settings_screen</string>
 
 </resources>
