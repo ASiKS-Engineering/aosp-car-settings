@@ -18,22 +18,11 @@
 <PreferenceScreen
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:settings="http://schemas.android.com/apk/res-auto"
-    android:title="@string/developer_options_settings"
+    android:title="@string/developer_tools_title"
     android:key="@string/psk_developer_options">
 
     <PreferenceCategory
-        android:title="@string/debug_debugging_category">
-
-        <SwitchPreference
-            android:key="@string/pk_usb_debugging_toggle"
-            android:title="@string/enable_adb"
-            android:summary="@string/enable_adb_summary"
-            settings:controller="com.android.car.settings.development.debugging.EnableAdbPreferenceController"/>
-
-    </PreferenceCategory>
-
-    <PreferenceCategory
-        android:title="Storage">
+        android:title="@string/developer_tools_storage_category">
 
         <SwitchPreference
             android:key="@string/pk_show_documentsui_launcher"

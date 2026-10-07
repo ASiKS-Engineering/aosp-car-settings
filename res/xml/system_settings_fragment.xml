@@ -88,6 +88,13 @@
         settings:controller="com.android.car.settings.system.DeveloperOptionsEntryPreferenceController">
         <intent android:action="android.settings.APPLICATION_DEVELOPMENT_SETTINGS"/>
     </Preference>
+    <Preference
+        android:fragment="com.android.car.settings.development.DeveloperToolsFragment"
+        android:icon="@drawable/ic_settings_development"
+        android:key="@string/pk_developer_tools_entry"
+        android:title="@string/developer_tools_title"
+        settings:controller="com.android.car.settings.system.DeveloperToolsEntryPreferenceController"
+        settings:searchable="false"/>
     <com.android.car.settings.common.LogicalPreferenceGroup
         android:key="@string/pk_system_extra_settings"
         settings:controller="com.android.car.settings.common.ExtraSettingsPreferenceController">

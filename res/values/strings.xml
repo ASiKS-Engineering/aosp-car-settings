@@ -2423,5 +2423,8 @@
     <string name="pk_power_shutdown" translatable="false">power_shutdown</string>
     <string name="pk_power_reboot_to_recovery" translatable="false">power_reboot_to_recovery</string>
     <string name="psk_power_settings" translatable="false">power_settings_screen</string>
+    <string name="developer_tools_title">Developer tools</string>
+    <string name="developer_tools_storage_category">Storage</string>
+    <string name="pk_developer_tools_entry" translatable="false">developer_tools_entry</string>
 
 </resources>
