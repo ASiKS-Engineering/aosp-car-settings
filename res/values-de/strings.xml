@@ -630,6 +630,9 @@
     <string name="user_name_label" msgid="3210832645046206845">"Name"</string>
     <string name="user_summary_not_set_up" msgid="1473688119241224145">"Nicht eingerichtet"</string>
     <string name="edit_user_name_title" msgid="1118500707473139995">"Profilname bearbeiten"</string>
+    <string name="profile_picture_change_title">"Profilbild ändern"</string>
+    <string name="profile_picture_no_picker">"Keine App zum Auswählen eines Bildes verfügbar"</string>
+    <string name="profile_picture_error">"Das Bild konnte nicht verwendet werden"</string>
     <string name="name_input_blank_error" msgid="2088850865880984123">"Das Feld darf nicht leer sein."</string>
     <string name="name_input_invalid_error" msgid="4355625213535164704">"Eingegebener Profilname ist ungültig."</string>
     <string name="users_list_title" msgid="770764290290240909">"Nutzer"</string>

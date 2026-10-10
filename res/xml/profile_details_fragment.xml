@@ -27,6 +27,13 @@
         android:key="@string/pk_profile_details_action_buttons"
         settings:controller="com.android.car.settings.profiles.ProfileDetailsActionButtonsPreferenceController"
         settings:searchable="false"/>
+    <com.android.car.ui.preference.CarUiPreference
+        android:key="@string/pk_profile_details_change_picture"
+        android:title="@string/profile_picture_change_title"
+        android:icon="@drawable/ic_edit"
+        settings:controller="com.android.car.settings.profiles.ProfileDetailsChangePicturePreferenceController"
+        settings:searchable="false"
+        settings:showChevron="false"/>
     <com.android.car.settings.common.LogicalPreferenceGroup
         android:key="@string/pk_account_group"
         settings:controller="com.android.car.settings.accounts.AccountGroupPreferenceController">

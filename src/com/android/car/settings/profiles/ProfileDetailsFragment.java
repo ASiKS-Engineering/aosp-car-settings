@@ -56,6 +56,8 @@ public class ProfileDetailsFragment extends ProfileDetailsBaseFragment {
                 R.string.pk_profile_details_header).setUserInfo(userInfo);
         use(ProfileDetailsActionButtonsPreferenceController.class,
                 R.string.pk_profile_details_action_buttons).setUserInfo(userInfo);
+        use(ProfileDetailsChangePicturePreferenceController.class,
+                R.string.pk_profile_details_change_picture).setUserInfo(userInfo);
         use(AccountGroupPreferenceController.class,
                 R.string.pk_account_group).setUserInfo(userInfo);
         use(ProfileDetailsDeletePreferenceController.class,

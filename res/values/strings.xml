@@ -1476,6 +1476,12 @@
     <string name="user_summary_not_set_up">Not set up</string>
     <!-- Title for edit profile name page [CHAR LIMIT=30] -->
     <string name="edit_user_name_title">Edit profile name</string>
+    <!-- Title of the preference that lets the user choose a profile picture [CHAR LIMIT=40] -->
+    <string name="profile_picture_change_title">Change profile picture</string>
+    <!-- Toast shown when no app can pick an image [CHAR LIMIT=80] -->
+    <string name="profile_picture_no_picker">No app available to choose a picture</string>
+    <!-- Toast shown when the chosen image could not be used [CHAR LIMIT=80] -->
+    <string name="profile_picture_error">The picture could not be used</string>
     <!-- An error message indicating that the name input field has been left blank and cannot be. [CHAR_LIMIT=50] -->
     <string name="name_input_blank_error">Field can\u2019t be blank.</string>
     <!-- An error message indicating that the name the user has entered is invalid. [CHAR_LIMIT=50] -->
