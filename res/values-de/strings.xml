@@ -1005,4 +1005,7 @@
     <string name="allow_bind_app_widget_activity_allow_bind_title" msgid="4395478700621003438">"Widget erstellen und Zugriff erlauben?"</string>
     <string name="allow_bind_app_widget_activity_allow_bind" msgid="9186583202360968858">"Nach der Erstellung des Widgets „<xliff:g id="WIDGET_LABEL">%2$s</xliff:g>“ hat <xliff:g id="WIDGET_HOST_NAME">%1$s</xliff:g> Zugriff auf alle angezeigten Daten."</string>
     <string name="allow_bind_app_widget_activity_always_allow_bind" msgid="5068031593959518141">"<xliff:g id="WIDGET_HOST_NAME">%1$s</xliff:g> immer das Erstellen von Widgets und den Zugriff auf ihre Daten erlauben"</string>
+    <string name="raspberry_pi_settings_title">Raspberry Pi</string>
+    <string name="raspberry_pi_device_status">Gerätestatus</string>
+    <string name="raspberry_pi_uptime">Betriebszeit beim Öffnen</string>
 </resources>

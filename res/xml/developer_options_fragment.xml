@@ -43,4 +43,11 @@
 
     </PreferenceCategory>
 
+    <Preference
+        android:fragment="com.android.car.settings.development.RaspberryPiSettingsFragment"
+        android:key="@string/pk_raspberry_pi_settings_entry"
+        android:title="@string/raspberry_pi_settings_title"
+        settings:controller="com.android.car.settings.development.RaspberryPiSettingsEntryPreferenceController"
+        settings:searchable="false"/>
+
 </PreferenceScreen>

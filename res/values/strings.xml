@@ -2433,4 +2433,14 @@
     <string name="developer_tools_storage_category">Storage</string>
     <string name="pk_developer_tools_entry" translatable="false">developer_tools_entry</string>
 
+    <string name="raspberry_pi_settings_title">Raspberry Pi</string>
+    <string name="raspberry_pi_device_status">Device status</string>
+    <string name="raspberry_pi_uptime">Uptime at screen opening</string>
+    <string name="pk_raspberry_pi_settings_entry" translatable="false">raspberry_pi_settings_entry</string>
+    <string name="psk_raspberry_pi_settings" translatable="false">raspberry_pi_settings_screen</string>
+    <string name="pk_raspberry_pi_model" translatable="false">raspberry_pi_model</string>
+    <string name="pk_raspberry_pi_android_version" translatable="false">raspberry_pi_android_version</string>
+    <string name="pk_raspberry_pi_kernel_version" translatable="false">raspberry_pi_kernel_version</string>
+    <string name="pk_raspberry_pi_uptime" translatable="false">raspberry_pi_uptime</string>
+
 </resources>

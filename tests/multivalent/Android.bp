@@ -63,6 +63,7 @@ android_robolectric_test {
         "src/**/MicrophoneRecentAccessViewAllPreferenceControllerTest.java",
         "src/**/PreferenceControllerTest.java",
         "src/**/ProfileDetailsActionButtonsPreferenceControllerTest.java",
+        "src/**/RaspberryPiPreferenceControllersTest.java",
         "src/**/ResetNetworkEntryPreferenceControllerTest.java",
         "src/**/SettingsQCRegistryTest.java",
         "src/**/StorageApplicationActionButtonsPreferenceControllerTest.java",
